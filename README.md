@@ -1,10 +1,8 @@
-<!-- <h1 align="center">Hi 👋, I'm Pragati Verma</h1> -->
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">I'm Deep Gandhi</h1>
-<p align="center">Enthusiastic <a href="https://drive.google.com/file/d/15KjAOjOoFMUWrEyEfOPvfhOoeVuWgLhN/view?usp=sharing">Data Science Developer 👨‍💻 </a>, eager to contribute to team success through hard work, attention to detail, and
-excellent organizational skills, a clear understanding of Deep Learning, Software Development, Federated Learning.</p>
+<p align="center">Enthusiastic <a href="https://drive.google.com/file/d/15KjAOjOoFMUWrEyEfOPvfhOoeVuWgLhN/view?usp=sharing">Data Science Developer 👨‍💻 </a>, always ready to learn more and very easily fascinated by topics in the fields of Deep Learning, NLProc, Federated Learning.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1401" alt="deep1401" /> </p>
