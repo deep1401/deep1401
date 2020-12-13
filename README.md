@@ -12,7 +12,7 @@
 - 📝 I write sometimes at [@blog](https://deep14010.github.io/)
 - 💬 Ask me about **PyTorch, NLP, Deep Learning, Federated Learning**
 - 📫 How to reach me **thisisdeepgandhi@gmail.com**
-- ⚡ Fun fact **Coffee over anything!!**
+- ⚡ Always up for coffee and some **mind-boggling** project ideas
 
 
 
