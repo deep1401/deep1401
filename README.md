@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
-<h1 align="center">I'm Deep Gandhi</h1>
+<h1 align="center">Deep Gandhi</h1>
 <p align="center">Enthusiastic Data Science Developer 👨‍💻, always ready to learn more and very easily fascinated by topics in the fields of Deep Learning, NLProc, Federated Learning and Differential Privacy. </p>
 
 
