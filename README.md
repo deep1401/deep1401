@@ -8,11 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1401" alt="deep1401" /> </p>
 
 
-- 📜 Resume available <a href="https://drive.google.com/file/d/1_j5vX0XKYuQRIuxiD_qigIYkEiK5isLt/view">here</a>
-- 🏡 Portfolio available at [127.0.0.1](https://deep1401.github.io/)
+- 📜 Resume available <a href="https://drive.google.com/file/d/1_tm2_eyFLK6azY1Ea8T3mumKyZbnPhCl/view?usp=sharing" target="_blank">here</a>
+- 🏡 Portfolio+Blog available at [127.0.0.1](https://deep1401.github.io/)
 - 🌱 I’m currently learning **NLP using Federated Learning**
 - 👨‍💻 All of my projects are available at [@deep1401](https://github.com/deep1401)
-- 📝 I write sometimes at [@blog](https://deep14010.github.io/)
 - 💬 Ask me about **PyTorch, NLP, Deep Learning, Federated Learning**
 - 📫 How to reach me **thisisdeepgandhi@gmail.com**
 - ⚡ Always up for coffee and some **mind-boggling** project ideas
