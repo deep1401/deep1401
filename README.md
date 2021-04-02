@@ -20,6 +20,9 @@
 
 ## Connect with me  
 <div align="center">
+<a href="https://wa.me/919757199266" target="_blank">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/deep1401" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
