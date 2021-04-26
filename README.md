@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1401" alt="deep1401" /> </p>
 
 
-- 📜 Resume available <a href="https://drive.google.com/file/d/1_tm2_eyFLK6azY1Ea8T3mumKyZbnPhCl/view?usp=sharing" target="_blank">here</a>
+- 📜 Resume available <a href="https://deep1401.github.io/resume/Deep_Resume_April.pdf" target="_blank">here</a>
 - 🏡 Portfolio+Blog available at [127.0.0.1](https://deep1401.github.io/)
 - 🌱 I’m currently learning **NLP using Federated Learning**
 - 👨‍💻 All of my projects are available at [@deep1401](https://github.com/deep1401)
