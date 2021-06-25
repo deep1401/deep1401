@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1401" alt="deep1401" /> </p>
 
 
-- 📜 Resume available <a href="https://deep1401.github.io/resume/Deep_Gandhi_Resume.pdf" target="_blank">here</a>
+- 📜 CV available <a href="https://deep1401.github.io/cv/Deep_Gandhi.pdf" target="_blank">here</a>
 - 🏡 Portfolio+Blog available [here](https://deep1401.github.io/)
 - 🌱 I’m currently learning **NLP using Federated Learning**
 - 💬 Ask me about **PyTorch, NLP, Deep Learning, Federated Learning**
