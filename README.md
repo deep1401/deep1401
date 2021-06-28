@@ -5,7 +5,6 @@
 <p align="center">Enthusiastic Data Science Developer 👨‍💻, always ready to learn more and very easily fascinated by topics in the fields of Deep Learning, NLProc, Federated Learning and Differential Privacy. </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deep1401" alt="deep1401" /> </p>
 
 
 - 📜 CV available <a href="https://deep1401.github.io/cv/Deep_Gandhi.pdf" target="_blank">here</a>
