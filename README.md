@@ -9,8 +9,7 @@
 
 - 📜 CV available <a href="https://deep1401.github.io/cv/Deep_Gandhi.pdf" target="_blank">here</a>
 - 🏡 Portfolio+Blog available [here](https://deep1401.github.io/)
-- 🌱 I’m currently learning **NLP using Federated Learning**
-- 💬 Ask me about **PyTorch, NLP, Deep Learning, Federated Learning**
+- 💬 Ask me about **PyTorch, NLProc, Deep Learning, Federated Learning**
 - 📫 How to reach me [**thisisdeepgandhi@gmail.com**](mailto:thisisdeepgandhi@gmail.com)
 - ⚡ Always up for coffee and some **mind-boggling** project ideas
 <!-- - 👨‍💻 All of my projects are available at [@deep1401](https://github.com/deep1401) -->
