@@ -10,7 +10,7 @@
 - 📜 CV available <a href="https://deep1401.github.io/cv" target="_blank">here</a>
 - 🏡 Blog available [here](https://deep1401.github.io/posts)
 - 💬 Ask me about **PyTorch, NLProc, Deep Learning, Federated Learning**
-- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/deep1401/) or Email (firstname [dot] lastname [at] ualberta [dot] ca)
+- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/deep1401/) or Email (deep [dot] gandhi [at] ualberta [dot] ca)
 <!-- - 👨‍💻 All of my projects are available at [@deep1401](https://github.com/deep1401) -->
 
 
