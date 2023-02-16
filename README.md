@@ -2,14 +2,13 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Deep Gandhi</h1>
-<p align="center">Enthusiastic Data Science Developer 👨‍💻, always ready to learn more and very easily fascinated by topics in the fields of Deep Learning, NLProc, Federated Learning and Differential Privacy. </p>
+<p align="center">Graduate Student at University of Alberta working under the supervision of Dr. Nidhi Hegde. Interested in Natural Language Processing, Fairness in ML, and Federated Learning </p>
 
 
 
 
 - 📜 CV available <a href="https://deep1401.github.io/cv" target="_blank">here</a>
 - 🏡 Blog available [here](https://deep1401.github.io/posts)
-- 💬 Ask me about **PyTorch, NLProc, Deep Learning, Federated Learning**
 - 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/deep1401/) or Email (deep [dot] gandhi [at] ualberta [dot] ca)
 <!-- - 👨‍💻 All of my projects are available at [@deep1401](https://github.com/deep1401) -->
 
