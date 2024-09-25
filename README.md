@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Deep Gandhi</h1>
-<p align="center">Graduate Student at University of Alberta working under the supervision of Dr. Nidhi Hegde. Interested in Natural Language Processing, Fairness in ML, and Federated Learning </p>
+<p align="center">Working as a MLE at Binloop Inc. MSc Computing Science from the University of Alberta working under the supervision of Dr. Nidhi Hegde. Interested in Natural Language Processing, Fairness in ML, and LLM Optimization </p>
 
 
 
