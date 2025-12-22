@@ -9,7 +9,7 @@
 
 - 📜 CV available <a href="https://deep1401.github.io/files/resume-ml/DeepGandhi.pdf" target="_blank">here</a>
 - 🏡 Blog available [here](https://deep1401.github.io/posts)
-- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/deep1401/) or Email (drgandhi [at] ualberta [dot] ca)
+- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/deep1401/) or Email (thisisdeepgandhi [at] gmail [dot] com)
 <!-- - 👨‍💻 All of my projects are available at [@deep1401](https://github.com/deep1401) -->
 
 
